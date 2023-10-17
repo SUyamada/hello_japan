@@ -1,6 +1,7 @@
 # hello_japan
 
 ## brtestブランチで行追加!!!
+Newline added 
 
 ## 小さい見出し
 
