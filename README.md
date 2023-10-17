@@ -1,5 +1,6 @@
 # hello_japan
 hogehoge
+mogegegegeg
 ## brtestブランチで行追加!!!
 
 -ローカルで編集したよ!!
